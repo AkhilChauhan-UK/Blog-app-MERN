@@ -99,4 +99,4 @@ repo-root/
 - CORS issues: confirm `CLIENT_URL` matches your frontend origin.
 - 401/403 on write: ensure `Authorization: Bearer <token>` header is present and you are the owner.
 
-Happy hacking! 🛠️
+
